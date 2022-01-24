@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Hyde
-slug: hyde
+title: Python & Algorithm
+slug: python
 menu: true
 order: 2
 description: >
